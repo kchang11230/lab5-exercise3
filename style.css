@@ -1,0 +1,21 @@
+#todo {
+    width: 300px;
+    margin: 50px auto;
+}
+  
+button {
+    cursor: pointer;
+}
+  
+button:hover {
+    opacity: 0.8;
+}
+  
+li {
+    cursor: pointer;
+}
+  
+li.completed {
+    text-decoration: line-through;
+}
+  
